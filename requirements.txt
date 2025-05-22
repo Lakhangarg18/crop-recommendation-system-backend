@@ -4,3 +4,4 @@ scikit-learn
 matplotlib
 seaborn
 flask  # (or streamlit or django if you're using a web framework)
+gunicorn
